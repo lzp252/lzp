@@ -5,4 +5,8 @@ package com.jk;
  */
 public class StudentController {
 
+    public static void main(String[] args) {
+        System.out.println("222");
+    }
+
 }
